@@ -1,3 +1,4 @@
 # Get-Stored-WIFI-Passwords
-Get Stored WIFI Passwords using pyton3
-open wifi.py,copy python code and run in python ide.
+Get **Stored WIFI Passwords** using pyton 3<br/>
+Run wifi.py or copy python code and run it in python IDE.<br/>
+**You Need to install python in your pc** [Download Python](https://www.python.org/)
